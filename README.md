@@ -1,2 +1,2 @@
 # Estructuras
-Estructuras de Datso
+Estructuras de Datos
